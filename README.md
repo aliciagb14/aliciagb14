@@ -6,7 +6,7 @@
 
 *Passionate about building things that work — from kernel to frontend.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aliciagb14](https://www.linkedin.com/in/alicia-gonz%C3%A1lez-berrocal-62645b1a3))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alicia-gonzález-berrocal-62645b1a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliciagb14)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia.gonzalezbc@gmail.com)
 
